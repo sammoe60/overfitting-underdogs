@@ -18,12 +18,12 @@ In this project we set out to further our understanding of machine learning algo
 
 ## Contributions:
 #### Sam Moe: 
--Worked on the Wine DataSet and visuals with collaborators 
--Did research on Advantages and Disadvantages
+- Worked on the Wine DataSet and visuals with collaborators 
+- Did research on Advantages and Disadvantages
 #### Will Crocker:
--Worked on the Cars93 DataSet with collaborators 
--Did research of Jargon, usablity, and target Datasets 
+- Worked on the Cars93 DataSet with collaborators 
+- Did research of Jargon, usablity, and target Datasets 
 #### Adi Palapati:
--Worked on the Titanic DataSet and visuals 
--Did research on hyperparameters and find useful resources
+- Worked on the Titanic DataSet and visuals 
+- Did research on hyperparameters and find useful resources
 
