@@ -1,7 +1,7 @@
 # overfitting-underdogs
 
 ## Description:
--This repository contains files used for processing, training, and scoring data from the Cars93, Wine, and Titanic datasets. The purpose of this repository was to do a deep dive in a specific machine learning algorithm: Random Forest. This repository also contains visuals that show the Random Forest algorithm and other machine learning algorithms such as linear regression.
+- This repository contains files used for processing, training, and scoring data from the Cars93, Wine, and Titanic datasets. The purpose of this repository was to do a deep dive in a specific machine learning algorithm: Random Forest. This repository also contains visuals that show the Random Forest algorithm and other machine learning algorithms such as linear regression.
 
 ## Collaborators:
 - Will Crocker
